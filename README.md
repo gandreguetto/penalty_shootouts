@@ -18,7 +18,7 @@ As hipóteses nula e alternativa foram as seguintes:
 
 $𝐻_0$ : A taxa de acerto de penaltis de canhotos e destros não apresenta diferença significativa.
 
-$𝐻_1$ : A taxa de acerto de penaltis dos destros é maior dos que a dos canhotos.
+$𝐻_1$ : A taxa de acerto de penaltis dos destros é maior do que a dos canhotos.
 
 Para realizar o teste do $\chi^2$, foi construí a matriz de contingência obtida dos dados e também a matriz esperada.
 
