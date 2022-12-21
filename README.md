@@ -22,7 +22,7 @@ $𝐻_1$ : A taxa de acerto de penaltis dos destros é maior dos que a dos canho
 
 Para realizar o teste do $\chi^2$, foi construí a matriz de contingência obtida dos dados e também a matriz esperada.
 
-O valor de $\chi^2$ calculado na análise foi de $\chi^2_{\text{calc}} ~ 0.14$, que está abaixo do valor crítico para uma significância de 95%, $\chi^2_{\text{critico}} = 3.84.$
+O valor de $\chi^2$ calculado na análise foi de $\chi^2_{\text{calc}} \approx 0.14$, que está abaixo do valor crítico para uma significância de 95%, $\chi^2_{\text{critico}} = 3.84.$
 
 Também obteve-se o p-valor para esse teste que é igual a 0.71. 
 
@@ -38,4 +38,8 @@ $H_0$ : A taxa de acerto de penaltis dos canhotos das cobranças à direita e à
 
 $H_1$ : A taxa de acertos de penaltis cobrados por canhotos à esquerda do gol é maior do que a taxa de acertos à direita do gol.
 
+Aqui, obteve-se $\chi^2_{\text{calc}} \approx 0.19$, que está novamente abaixo do valor crítico.
 
+Nessa análise tem-se valor-p $\approx 0.66$, que também é maior do que o nível de significância. Dessa forma, a hipótese nula não pode ser descartada.
+
+Conclui-se, portanto, que não há diferença significativa nos acertos das cobranças à esquerda e à direita do gol pelos canhotos.  
