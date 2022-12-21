@@ -20,7 +20,7 @@ $𝐻_0$ : A taxa de acerto de penaltis de canhotos e destros não apresenta dif
 
 $𝐻_1$ : A taxa de acerto de penaltis dos destros é maior do que a dos canhotos.
 
-Para realizar o teste do $\chi^2$, foi construí a matriz de contingência obtida dos dados e também a matriz esperada.
+Para realizar o teste do $\chi^2$, foi construída a matriz de contingência obtida dos dados e também a matriz esperada.
 
 O valor de $\chi^2$ calculado na análise foi de $\chi^2_{\text{calc}} \approx 0.14$, que está abaixo do valor crítico para uma significância de 95%, $\chi^2_{\text{critico}} = 3.84.$
 
